@@ -60,11 +60,11 @@
   
   @media (min-width: 320px) and (max-width: 480px) {
     .contact{
-      height: 110vh;
+      height: 140vh;
       width: 100%;
     }
     .container{
-        
+        position: relative;
         max-width: 480px;
         background: #fff;
         width: 300px;
